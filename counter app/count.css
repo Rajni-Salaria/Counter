@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(206, 202, 197);
+}
+#container{
+    border-style:ridge;
+    border-color: rgb(61, 36, 36);
+    border-width: 200px;
+    padding-left: 56px;
+
+}
+
+
+h3{
+
+    text-align: center;
+    font-size: 80px;
+    padding: 5px;
+    margin: 7px;
+}
+#container,button{
+    font-size: 67px;
+    border-radius: 14px;
+    padding: 15px;
+    margin: 23px;
+}
+.add{
+    color: rgb(21, 21, 63);
+    background: rgb(250, 247, 249);
+    padding: 27px;
+}
+.zero{
+    padding: 20px;
+}
+.sub{
+    background: rgb(250, 247, 249);
+    padding: 27px;
+}
